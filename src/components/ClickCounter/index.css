@@ -1,0 +1,28 @@
+.counter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f1f5f8;
+}
+.count {
+  color: #c20a72;
+  font-family: 'Roboto';
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.para {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.Btn {
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: #007bff;
+  text-align: center;
+  border: 0px;
+}
